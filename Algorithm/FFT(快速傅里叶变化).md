@@ -1,3 +1,5 @@
+[本文Link https://www.zybuluo.com/Biscuit46/note/1375083](https://www.zybuluo.com/Biscuit46/note/1375083)
+
 # 前言
 其实很早之前就写过FFT,但是发现自己都是靠背板子记忆的,一会儿就忘了,没怎么深刻理解.
 所以再写一次总结来加深影响.  
